@@ -8,4 +8,5 @@ Repository Description:
 This repository contains - 
 1. python scripts used to call the Bing Custom Search API for finding the local government URLs that match the searching criteria 
 2. python scripts used to call the openai GPT3.5 API for extracting content from the local government website URLs and summarizing with a 100 word limit for each website
-3. PowerBI dashboard with the final dashboard view of the scorecard and documentation deliverables
+       2.1 use the .env to update the openai API key before running the script
+4. PowerBI dashboard with the final dashboard view of the scorecard and documentation deliverables
